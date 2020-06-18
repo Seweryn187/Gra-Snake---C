@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1590589449 source:c:\users\seweryn\desktop\uczelnia\informatyka\podstawy programowania 2\projekt\snake_allegro\main.cpp
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1590786125 source:c:\users\seweryn\desktop\uczelnia\informatyka\podstawy programowania 2\projekt\snake_allegro\main.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
